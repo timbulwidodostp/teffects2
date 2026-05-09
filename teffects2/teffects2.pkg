@@ -1,4 +1,22 @@
-D 'xtkr': The Keane & Runkle Estimator for Dynamic Panel Estimation Use xtkr With STATA 19
+D 'teffects2': Estimating average treatment effects with observational data Use teffects2 aipw and teffects2 ipw and teffects2 ipwra (teffects2) With STATA 19
 D
-F xtkr.ado
-F xtkr.sthlp
+F _teffects2_aipw.ado
+F _teffects2_count_obs.ado
+F _teffects2_error_msg.ado
+F _teffects2_getstatsaipw.ado
+F _teffects2_getstatsipw.ado
+F _teffects2_getstatsipwra.ado
+F _teffects2_gmmopts.ado
+F _teffects2_ipw.ado
+F _teffects2_ipwra.ado
+F _teffects2_parse_canonicalize.ado
+F _teffects2_parse_dvarlist.ado
+F _teffects2_parse_tvar.ado
+F _teffects2_parse_tvarlist.ado
+F _teffects2_replay.ado
+F _teffects2_vlist_exclusive2.ado
+F teffects2.ado
+F teffects2.sthlp
+F teffects2_aipw.sthlp
+F teffects2_ipw.sthlp
+F teffects2_ipwra.sthlp
