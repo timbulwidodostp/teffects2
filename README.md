@@ -1,0 +1,2 @@
+# teffects2
+Estimating average treatment effects with observational data Use teffects2 aipw and teffects2 ipw and teffects2 ipwra (teffects2) With STATA 19
